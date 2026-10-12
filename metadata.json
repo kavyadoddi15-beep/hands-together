@@ -1,0 +1,6 @@
+{
+  "name": "Hands Together",
+  "description": "Together We Care, Together We Change — Connecting people, resources, and community support through volunteerism, public welfare schemes, and direct assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
